@@ -1,0 +1,28 @@
+Python cache files
+
+pycache/
+*.py[cod]
+
+Virtual environments
+
+.venv/
+venv/
+env/
+
+Environment variables and secrets
+
+.env
+.env.*
+
+macOS files
+
+.DS_Store
+
+Editor settings
+
+.vscode/
+
+Temporary files
+
+*.tmp
+*.log
