@@ -1,0 +1,2 @@
+total_objects,total_prediction_timestamps,total_possible_pairs_per_timestamp,screening_threshold_km,total_candidate_observations,total_unique_candidate_pairs,closest_sampled_separation_km,highest_relative_speed_km_s,priority_1_pairs,priority_2_pairs,priority_3_pairs,monitor_pairs,data_review_required_pairs
+580,7,167910,100,58,32,9.900489328772451,14.530745986089604,1,2,9,20,32
