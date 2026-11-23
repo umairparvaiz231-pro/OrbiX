@@ -1,0 +1,2 @@
+object_A_id,object_B_id,total_observations,starting_separation_km,ending_separation_km,minimum_separation_km,maximum_separation_km,average_separation_km,total_distance_decreases,total_distance_increases,net_separation_change_km
+33762,34045,7,31.88671445729405,9.900489328772451,9.900489328772451,35.143571523667994,24.730392871489375,3,3,-21.9862251285216
